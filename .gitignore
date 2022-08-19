@@ -1,0 +1,4 @@
+node_modules
+report/cucumber-json/*
+report/html/*
+report/screenshots/*
